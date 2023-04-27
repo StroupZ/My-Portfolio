@@ -18,7 +18,7 @@ const Contact = () => {
               type="text"
               id="name"
               name="name"
-              placeholder="John Doe"
+              placeholder="Satoshi Nakamoto"
               required
               minLength={3}
             />
@@ -27,7 +27,7 @@ const Contact = () => {
               type="email"
               id="email"
               name="email"
-              placeholder="johndoe@gmail.com"
+              placeholder="snakamoto@gmail.com"
               required
             />
             <label htmlFor="subject">Subject</label>
@@ -35,14 +35,14 @@ const Contact = () => {
               type="text"
               id="subject"
               name="subject"
-              placeholder="Let's have a chat!"
+              placeholder="Greetings!"
               required
             />
             <label htmlFor="message">Message</label>
             <textarea
               id="message"
               name="message"
-              placeholder="I would like to talk with you soon..."
+              placeholder="Let's chat soon..."
               required
             />
             <button className="mt-2 py-2 text-white rounded transition duration-300 flex justify-center items-center gap-[10px] bg-[#1876d2] hover:bg-[#2884e0]">
@@ -57,7 +57,7 @@ const Contact = () => {
               className="inline-flex"
             >
               <img
-                className="w-[60px] h-[60px] rounded-full"
+                className="w-[60px] h-[60px] rounded-full hover:scale-110"
                 src="/github.png"
                 alt=""
               />

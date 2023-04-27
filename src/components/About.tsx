@@ -13,7 +13,7 @@ const About = () => {
         <img
           data-scroll
           data-scroll-speed="2"
-          className="md:w-[1250px]"
+          className="md:min-w-[250px]"
           src="/z_round.png"
           alt=""
         />
@@ -26,7 +26,6 @@ const About = () => {
         >
           About Me
         </h1>
-
         <p data-scroll className="text-lg text-gray-200" id="story">
           Hi! I&apos;m Zachariah Stroup, also known as StroupZ, and I&apos;m a
           fullstack developer with a passion for Web3. Ever since I discovered

@@ -13,7 +13,7 @@ export const myProjects = [
     id: "1",
     title: "Decentralized Autonomous Lottery",
     description:
-      "A smart contract lottery dApp which can initiate and conclude raffles programmatically , utilizing Chainlink VRF to randomly select winners.",
+      "A smart contract lottery dApp which can initiate and conclude raffles programmatically, utilizing Chainlink VRF to randomly select winners.",
     demo: "button1",
     github: "button2",
     technologies: [
@@ -33,11 +33,11 @@ export const myProjects = [
   },
   {
     id: "2",
-    title: "NFT Marketplace",
+    title: "Kennel Club NFT Marketplace",
     description:
       "A decentralized, blockchain based marketplace to buy and sell NFT's, which utilizes The Graph protocol for indexing.",
-    demo: "button3",
-    github: "button4",
+    demo: "https://kennel-club.vercel.app/",
+    github: "https://github.com/StroupZ/Kennel-Club",
     technologies: [
       "/logo-javascript.svg",
       "/react-2.svg",
@@ -51,7 +51,7 @@ export const myProjects = [
       "/the-graph-logo.svg",
     ],
     image: {
-      url: "/bing-standin.JPG",
+      url: "/kennel-club-image.JPG",
     },
   },
   {
@@ -59,7 +59,7 @@ export const myProjects = [
     title: "Developer Portfolio",
     description:
       "A modern web portfolio for a developer to introduce themselves and display their work.",
-    demo: "button3",
+    demo: "https://stroupz.vercel.app/",
     github: "https://github.com/StroupZ/My-Portfolio",
     technologies: [
       "/typescript.svg",
@@ -70,7 +70,7 @@ export const myProjects = [
       "/react-2.svg",
     ],
     image: {
-      url: "/portfolio-test-image.JPG",
+      url: "/portfolio-image1.JPG",
     },
   },
 ];

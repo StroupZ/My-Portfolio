@@ -5,7 +5,7 @@ import { myProjects } from "../shared/constants";
 const Projects = () => {
   return (
     <>
-      <h1 className="text-center text-4xl mb-10 md:mb-20">Projects</h1>
+      <h1 className="text-center text-4xl my-10 md:my-20">Projects</h1>
       {myProjects.map((project, index) => (
         <div
           key={project.id}
