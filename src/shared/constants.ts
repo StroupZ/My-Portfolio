@@ -14,8 +14,8 @@ export const myProjects = [
     title: "Decentralized Autonomous Lottery",
     description:
       "A smart contract lottery dApp which can initiate and conclude raffles programmatically, utilizing Chainlink VRF to randomly select winners.",
-    demo: "button1",
-    github: "button2",
+    demo: "https://my-dal.vercel.app/",
+    github: "https://github.com/StroupZ/Decentralized-Autonomous-Lottery",
     technologies: [
       "/logo-javascript.svg",
       "/react-2.svg",
@@ -28,7 +28,7 @@ export const myProjects = [
       "/link-logo.svg",
     ],
     image: {
-      url: "/lottery connected big.JPG",
+      url: "/dal-image.JPG",
     },
   },
   {
