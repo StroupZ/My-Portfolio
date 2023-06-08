@@ -5,6 +5,10 @@ module.exports = {
       colors: {
         dark: "#111111",
       },
+      fontFamily: {
+        comfortaa: ["Comfortaa", "cursive"],
+        museoModerno: ["MuseoModerno", "cursive"],
+      },
     },
   },
   plugins: [],

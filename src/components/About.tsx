@@ -27,16 +27,16 @@ const About = () => {
           About Me
         </h1>
         <p data-scroll className="text-lg text-gray-200" id="story">
-          Hi! I&apos;m Zachariah Stroup, also known as StroupZ, and I&apos;m a
-          fullstack developer with a passion for Web3. Ever since I discovered
-          blockchain and DLT tech, I&apos;ve been obsessed... so much so that I
-          was driven to teach myself how to become a Web3 developer. I&apos;m
-          convinced that the decentralization, transparency, and security
-          offered by blockchains and smart contracts is the future, and I want
-          to be a part of making that future happen. When I&apos;m not building
-          something or learning more in my tech journey, I enjoy jamming on
-          guitar, playing strategy games, and taking drives in my car for the
-          fun of it.
+          Hi!&nbsp; I&apos;m Zachariah Stroup, also known as StroupZ, and
+          I&apos;m a fullstack developer with a passion for Web3.&nbsp; Ever
+          since I discovered blockchain and DLT tech, I&apos;ve been obsessed...
+          so much so that I was driven to teach myself how to become a Web3
+          developer.&nbsp; I&apos;m convinced that the decentralization,
+          transparency, and security offered by blockchains and smart contracts
+          is the future, and I want to be a part of making that future
+          happen.&nbsp; When I&apos;m not building something or learning more in
+          my tech journey, I enjoy jamming on guitar, playing strategy games,
+          and taking drives in my car for the fun of it.
         </p>
       </div>
     </div>

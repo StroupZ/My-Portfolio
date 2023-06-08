@@ -35,7 +35,7 @@ export const myProjects = [
     id: "2",
     title: "Kennel Club NFT Marketplace",
     description:
-      "A decentralized, blockchain based marketplace to buy and sell NFT's, which utilizes The Graph protocol for indexing.",
+      "A decentralized, blockchain based marketplace to buy and sell NFTs, which utilizes The Graph protocol for indexing.",
     demo: "https://kennel-club.vercel.app/",
     github: "https://github.com/StroupZ/Kennel-Club",
     technologies: [

@@ -6,14 +6,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #1e1e1e;
+  background: #111111;
 }
 
 .tagcloud {
   display: inline-block;
   top: 0;
   left: 0;
-  font-family: Serif;
+  font-family: "MuseoModerno";
   font-weight: 600;
   letter-spacing: 0.0625em;
   font-size: 1.2em;
@@ -25,4 +25,5 @@
 
 .tagcloud--item:hover {
   color: #f75cd3;
+  cursor: default;
 }

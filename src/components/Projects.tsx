@@ -28,9 +28,7 @@ const Projects = () => {
           </div>
           <div className="item-info lg:flex-1">
             <h1 className="text-3xl">{project.title}</h1>
-            <p className="text-[20px] text-justify my-3">
-              {project.description}
-            </p>
+            <p className="text-[20px] my-3">{project.description}</p>
             <div className="flex gap-[5px]">
               {project.technologies.map((tech) => (
                 <img
