@@ -49,7 +49,7 @@ const Contact = () => {
               Send
             </button>
           </form>
-          <div className="flex flex-col items-center">
+          <div className="flex justify-center space-x-4">
             <a
               href={process.env.NEXT_PUBLIC_GITHUB}
               target="_blank"
@@ -59,6 +59,18 @@ const Contact = () => {
               <img
                 className="w-[60px] h-[60px] rounded-full hover:scale-110"
                 src="/github.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://twitter.com/StroupZ_"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex"
+            >
+              <img
+                className="w-[60px] h-[60px] rounded-full hover:scale-110"
+                src="/twitter-logo.png"
                 alt=""
               />
             </a>
