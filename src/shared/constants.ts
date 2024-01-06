@@ -56,6 +56,25 @@ export const myProjects = [
   },
   {
     id: "3",
+    title: "Business Website",
+    description:
+      "A sleek and attractive website with a contemporary, dynamic feel for a business to showcase their offerings.",
+    demo: "https://artisaninthecrossings.vercel.app/",
+    github: "https://github.com/StroupZ/Artisan-in-the-Crossings",
+    technologies: [
+      "/logo-javascript.svg",
+      "/html-1.svg",
+      "/css-3.svg",
+      "/tailwind-css-2.svg",
+      "/next-js.svg",
+      "/react-2.svg",
+    ],
+    image: {
+      url: "/artisan-home.JPG",
+    },
+  },
+  {
+    id: "4",
     title: "Developer Portfolio",
     description:
       "A modern web portfolio for a developer to introduce themselves and display their work.",

@@ -34,9 +34,9 @@ const About = () => {
           developer.&nbsp; I&apos;m convinced that the decentralization,
           transparency, and security offered by blockchains and smart contracts
           is the future, and I want to be a part of making that future
-          happen.&nbsp; When I&apos;m not building something or learning more in
-          my tech journey, I enjoy jamming on guitar, playing strategy games,
-          and taking drives in my car for the fun of it.
+          happen.&nbsp; I also love front-end design and so my other focus has
+          been on creating an aesthetically pleasing, yet dynamic experience for
+          those viewing my work.&nbsp; Enjoy!
         </p>
       </div>
     </div>
