@@ -30,9 +30,9 @@ const About = () => {
           Hi!&nbsp; I&apos;m Zachariah Stroup, also known as StroupZ, and
           I&apos;m a fullstack developer with a passion for Web3.&nbsp; Ever
           since I discovered blockchain and DLT tech, I&apos;ve been obsessed...
-          so much so that I was driven to teach myself how to become a Web3
-          developer, as well as an understanding of smart contract
-          security.&nbsp; I&apos;m convinced that the decentralization,
+          so much so that I was driven to teach myself the skills necessary to
+          become a Web3 developer, accompanied by an understanding of smart
+          contract security.&nbsp; I&apos;m convinced that the decentralization,
           transparency, and security offered by blockchains and smart contracts
           is the future, and I want to be a part of making that future
           happen.&nbsp; I also love front-end design and so my other focus has

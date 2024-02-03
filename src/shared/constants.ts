@@ -155,4 +155,14 @@ export const mySkills = [
     name: "GraphQL",
     image: "/graphql-logo-2.svg",
   },
+  {
+    id: "13",
+    name: "Git",
+    image: "/git-logo.svg",
+  },
+  {
+    id: "14",
+    name: "SQL",
+    image: "/sql-logo.svg",
+  },
 ];

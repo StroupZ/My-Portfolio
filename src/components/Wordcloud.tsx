@@ -19,6 +19,8 @@ const Wordcloud = () => {
     "EthersJS",
     "Solidity",
     "TailwindCSS",
+    "SQL",
+    "Git",
   ];
 
   const options: object = {

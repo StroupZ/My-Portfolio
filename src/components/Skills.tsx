@@ -24,7 +24,7 @@ const Skills = () => {
         data-scroll
         data-scroll-direction="horizontal"
         data-scroll-speed="9"
-        className="grid justify-center grid-cols-6 md:grid-cols-6 gap-y-[10px] md:gap-y-[20px] gap-x-[20px]"
+        className="grid justify-center grid-cols-7 md:grid-cols-7 gap-y-[10px] md:gap-y-[20px] gap-x-[20px]"
       >
         {mySkills.map((skill, index) =>
           index % 2 === 0 ? (
@@ -41,7 +41,7 @@ const Skills = () => {
         data-scroll
         data-scroll-direction="horizontal"
         data-scroll-speed="-9"
-        className="grid justify-center grid-cols-6 md:grid-cols-6 gap-y-[10px] md:gap-y-[20px] gap-x-[20px] mt-5"
+        className="grid justify-center grid-cols-7 md:grid-cols-7 gap-y-[10px] md:gap-y-[20px] gap-x-[20px] mt-5"
       >
         {mySkills.map((skill, index) =>
           index % 2 === 1 ? (
